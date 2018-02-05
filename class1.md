@@ -4,5 +4,8 @@
 
 `git clone` - clones a repo
 
+`git add -A` adds changes to repo
+
+
 ### Command Line Commands
 `mkdir` - makes a new directory
